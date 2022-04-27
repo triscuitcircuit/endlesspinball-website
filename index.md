@@ -4,6 +4,19 @@ You can use the [editor on GitHub](https://github.com/triscuitcircuit/endlesspin
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+theme: jekyll-theme-minimal
+title: Endless Pinball
+description: This is a page to see the leaderboards of Endless Pinball!
+
+![This is an image](https://cdn.discordapp.com/attachments/946512341716066327/968897446300250112/Untitled_Artwork_6.png)
+
+** Highest Scores **
+
+1. Steve Irwin (1089)
+2. Adam West (987)
+3. George Washington ((786)
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
